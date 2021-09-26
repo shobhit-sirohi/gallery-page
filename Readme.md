@@ -2,15 +2,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://loving-elion-df8ce9.netlify.app/">
+    <a href="https://wizardly-hamilton-3f8cb8.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/BFqHT2MD9O4rrnfPh8gb">
+    <a href="https://devchallenges.io/solutions/SiWGJ9xIMzek3Tm68HxR">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
+    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
       Challenge
     </a>
   </h3>
@@ -25,7 +25,7 @@
 - [React](https://reactjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the following user stories:
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I) was to build an application to complete the following user stories:
 
 ## How To Use
 
